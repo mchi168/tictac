@@ -76,7 +76,3 @@ function isWin() {
 console.log(isWin())
 
 
-while(isWin()) {
-    
-
-}
